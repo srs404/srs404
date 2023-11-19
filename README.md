@@ -2,9 +2,7 @@
 Sami</a></h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/srs404" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="srs404" /></a> </p>
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/srs404">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="srs404"/>
   </a>
