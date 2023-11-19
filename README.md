@@ -59,6 +59,10 @@ Sami</a></h1>
 
 </p>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
