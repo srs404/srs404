@@ -88,7 +88,7 @@ Sami</a></h1>
 
 ---
 
-<div align="center">
+<div align="center" style="display: inline;">
 
 <div style="display: inline;">
 
