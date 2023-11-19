@@ -18,21 +18,19 @@ Sami</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://tripup.io" target="blank">TripUp.IO</a> as an Senior IT Consultant
+- 🔭 I’m currently working as a Senior IT Consultant in <a href="https://tripup.io" target="blank">TripUp.IO</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working with Server Administration
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for Freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Go && React
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 💬 Ask me about **PHP & Java**
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 📫 How to reach me **mail@srs404.com**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/srs404/resume/blob/main/Sam's%20Development%20Resume_.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
