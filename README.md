@@ -15,7 +15,7 @@ Sami</a></h1>
 </div>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://64.media.tumblr.com/579cc56a2a59ad71cf1c5afb0f0005fc/tumblr_ov7siwHIkP1ue08b9o1_500.gifv">
 </a>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
