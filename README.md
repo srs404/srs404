@@ -12,7 +12,7 @@ Sami</a></h1>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://tiktok.com">
-    <img src="https://img.shields.io/badge/Tiktok-white?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+    <img src="https://img.shields.io/badge/Tiktok-red?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
 </div>
 
