@@ -9,7 +9,7 @@ Sami</a></h1>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="srs404"/>
   </a>
   <a href="https://tiktok.com/SamSingularity">
-    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/with%20a%20logo-red?style=for-the-badge&logo=website" alt="Youtube Badge"/>
   </a>
   <a href="https://tiktok.com/SamSingularity">
     <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
