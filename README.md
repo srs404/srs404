@@ -6,7 +6,7 @@ Sami</a></h1>
   <a href="https://linkedin.com/in/srs404">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="srs404"/>
   </a>
-  <a href="https://tiktok.com/SamSingularity">
+  <a href="https://srs404.com">
     <img src="https://img.shields.io/badge/WEBSITE-red?style=for-the-badge&logo=website" alt="Youtube Badge"/>
   </a>
   <a href="https://tiktok.com/SamSingularity">
