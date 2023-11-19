@@ -4,6 +4,18 @@ Sami</a></h1>
 
 <p align="left"> <a href="https://linkedin.com/in/srs404" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="srs404" /></a> </p>
 
+<div id="badges">
+  <a href="https://linkedin.com/in/srs404">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="srs404"/>
+  </a>
+  <a href="https://tiktok.com/SamSingularity">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://tiktok.com">
+    <img src="https://img.shields.io/badge/Tiktok?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+  </a>
+</div>
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
