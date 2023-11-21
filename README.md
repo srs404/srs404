@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm <a href="https://srs404.com" target="blank">
+<h1 align="center">Hi, I'm <a href="https://srs404.com" target="blank">
 Sami</a></h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/srs404">
+  <a href="https://linkedin.com/in/srs404" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="srs404"/>
   </a>
-  <a href="https://srs404.com">
-    <img src="https://img.shields.io/badge/WEBSITE-red?style=for-the-badge&logo=website" alt="Youtube Badge"/>
+  <a href="https://srs404.com" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-red?style=for-the-badge&logo=website" alt="https://srs404.com"/>
   </a>
-  <a href="https://tiktok.com/SamSingularity">
+  <a href="https://tiktok.com/SamSingularity" target="_blank">
     <img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
 </div>
