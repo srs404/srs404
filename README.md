@@ -97,12 +97,11 @@ Sami</a></h1>
 
 </div>
 
----
 
 <div align="right">
 
-Credit: [Sami Rahman](https://github.com/srs404)
+---
 
-Last Edited on: 18/11/2023
+> Rather Than Being Indecisive, Be Absolute
 
 </div>
