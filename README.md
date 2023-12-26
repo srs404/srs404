@@ -26,7 +26,7 @@ Sami</a></h1>
 
 - 🤝 I’m available for Freelancing.
 
-- 🌱 I’m currently learning Go && React
+- 🌱 I’m currently learning Go & React
 
 - 💬 Ask me about **PHP & Java**
 
@@ -84,10 +84,16 @@ Sami</a></h1>
 
 <div align="center">
 
-![Problems Solved](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=all)
-![Easy](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=easy)
-![Medium](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=medium)
-![Hard](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=hard)
+<a href="https://leetcode.com/srs404/" target="_blank">
+
+![Profile](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?logo=leetcode&label=srs404&style=for-the-badge&color=purple)
+
+</a>
+
+![Problems Solved](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=all&style=for-the-badge&color=blue)
+![Easy](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=easy&style=for-the-badge&color=green)
+![Medium](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=medium&style=for-the-badge&color=orange)
+![Hard](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=hard&style=for-the-badge&color=red)
 
 </div>
 
