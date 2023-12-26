@@ -78,16 +78,18 @@ Sami</a></h1>
 
 
 
-### :fire: My Expertise :
+### :fire: LeetCode :
 
 ---
 
 <div align="center">
 
-TODO
+![Problems Solved](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=all)
+![Easy](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=easy)
+![Medium](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=medium)
+![Hard](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=hard)
 
 </div>
-
 
 ---
 
