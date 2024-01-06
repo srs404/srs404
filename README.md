@@ -1,22 +1,25 @@
 <img src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/github%20banner%20srs404.jpg" style="width: 100%;">
 
-<h1 align="center">Hi, I'm <a href="https://srs404.com" target="blank">
-Sami</a></h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-
 <div id="badges" align="center">
+	<a href="https://www.instagram.com/@srs404_" target="_blank">
+		<img src="https://img.shields.io/badge/INSTAGRAM-white?style=for-the-badge&logo=instagram&logoColor=black" alt="instagram"/>
+  	</a>
+  	<a href="https://www.youtube.com/@SamSingularity" target="_blank">
+    	<img src="https://img.shields.io/badge/YOUTUBE-white?style=for-the-badge&logo=youtube&logoColor=black" alt="youtube"/>
+  	</a>
+  
   <a href="https://linkedin.com/in/srs404" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="srs404"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkedin"/>
   </a>
   <a href="https://srs404.com" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-red?style=for-the-badge&logo=website" alt="https://srs404.com"/>
+    <img src="https://img.shields.io/badge/WEBSITE-white?style=for-the-badge" alt="website"/>
   </a>
   <a href="https://tiktok.com/SamSingularity" target="_blank">
-    <img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=Leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
 
-<hr>
+<br>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
