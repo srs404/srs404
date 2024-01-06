@@ -22,7 +22,7 @@
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
+  <img align="right" top="500" width="400" alt="GIF" src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/SamSingularity%20Skit%20Faces.png">
 </a>
 
 - 🔭 I’m currently working as a Senior IT Specialist in <a href="https://tripup.io" target="blank">TripUp.IO</a>
