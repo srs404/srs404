@@ -126,13 +126,3 @@
  
 </div>
 
-
-
-
-<div align="right">
-
----
-
-> Rather Than Being Indecisive, Be Absolute
-
-</div>
