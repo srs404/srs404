@@ -5,7 +5,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" width="380" alt="GIF" src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/SamSingularity%20Skit%20Faces.png">
 </a>
-<br>
+<br><br>
 
 - 🔭 I’m currently working as a Senior IT Specialist in <a href="https://tripup.io" target="blank">TripUp.IO</a>
 
@@ -20,7 +20,7 @@
 - 📫 How to reach me **mail@srs404.com**
 
 - 📄 Know about my experiences <a href="https://github.com/srs404/resume/blob/main/Development%20Resume.pdf" target="blank">Resume</a>
-<br/>
+
 <h3 align="center">Connect with me</h3>
 
 <div id="badges" align="center">
