@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/github%20banner%20srs404.jpg" style="width: 100%;">
+
 <h1 align="center">Hi, I'm <a href="https://srs404.com" target="blank">
 Sami</a></h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
