@@ -118,7 +118,7 @@
 
 </div>
 
-<img top="500" align="left" width="580" alt="GIF" style="margin-right: 20px;" src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/terminal.gif">
+<img top="500" align="left" width="480" height="280" alt="GIF" style="margin-right: 20px;" src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/terminal.gif">
 
 <div align="right">
 
