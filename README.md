@@ -118,11 +118,11 @@
 
 </div>
 
-<img top="500" align="left" width="480" height="280" alt="GIF" style="margin-right: 20px;" src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/terminal.gif">
+<img top="500" align="left" width="480" alt="GIF" style="margin-right: 20px;" src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/terminalnew.gif">
 
 <div align="right">
 
-[![Sam's Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2)](https://medium.com/@omidnikrah)
+[![Sam's Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=4)](https://medium.com/@omidnikrah)
  
 </div>
 
