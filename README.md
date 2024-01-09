@@ -121,8 +121,10 @@
 <img top="500" align="left" width="380" alt="GIF" style="margin-right: 20px;" src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/terminalnew.gif">
 
 <div align="right">
-
-[![Sam's Medium](https://github-readme-medium.vercel.app/?username=Srsami&limit=3)](https://medium.com/@SamSingularity)
+<a href="https://www.medium.com/@SamSingularity" target="_blank">
+    <img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=Medium&logoColor=black" width="400px" alt="Medium"/>
+	<br><span>@SamSingularity</span>
+</a>
  
 </div>
 
