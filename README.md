@@ -122,7 +122,7 @@
 
 <div align="right">
 
-[![Sam's Medium](https://github-readme-medium.vercel.app/?username=srsami&limit=3)](https://medium.com/@srs404)
+[![Sam's Medium](https://github-readme-medium.vercel.app/?username=Srsami&limit=3)](https://medium.com/@SamSingularity)
  
 </div>
 
