@@ -114,17 +114,7 @@
 
 <div align="center">
 
-# 📝 SamBlogs
+# Stats 📈
 
-</div>
-
-<img top="500" align="left" width="380" alt="GIF" style="margin-right: 20px;" src="https://raw.githubusercontent.com/srs404/My-Useful-Images/main/Github%20Profile/terminalnew.gif">
-
-<div align="right">
-<a href="https://www.medium.com/@srs404" target="_blank">
-    <img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=Medium&logoColor=black" width="400px" alt="Medium"/>
-	<br><span>@srs404</span>
-</a>
- 
-</div>
+<img src="https://myreadme.vercel.app/api/embed/srs404?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
