@@ -49,7 +49,7 @@
 
 <div align="center">
 	
-# Expertise
+# EXPERTISE
 
 </div>
 <br/>
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-# LeetCode :
+## LEETCODE :
 
 </div>
 
@@ -98,15 +98,7 @@
 
 <a href="https://leetcode.com/srs404/" target="_blank">
 
-![Profile](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?logo=leetcode&label=srs404&style=for-the-badge&color=purple)
-![Problems Solved](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=all&style=for-the-badge&color=blue)
-
-</a>
-
-
-![Easy](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=easy&style=for-the-badge&color=green)
-![Medium](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=medium&style=for-the-badge&color=orange)
-![Hard](https://badges.peiyuan.ch/leetcode/srs404/solved?difficulty=hard&style=for-the-badge&color=red)
+[![Sam's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=srs404)](https://github.com/srs404/github-readme)
 
 </div>
 
@@ -114,7 +106,13 @@
 
 <div align="center">
 
-# Stats 📈
+# PROJECTS 💻
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srs404&repo=Xemote)](https://github.com/srs404/Xemote)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srs404&repo=Invoicing-System)](https://github.com/srs404/Invoicing-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srs404&repo=TweeBot)](https://github.com/srs404/TweeBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srs404&repo=WiFi-Retriever-Python)](https://github.com/srs404/WiFi-Retriever-Python)
+
+# STATS 📈
 
 <img src="https://myreadme.vercel.app/api/embed/srs404?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
