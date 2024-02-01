@@ -106,13 +106,13 @@
 
 <div align="center">
 
-# PROJECTS 💻
+# PROJECTS
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srs404&repo=Xemote)](https://github.com/srs404/Xemote)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srs404&repo=Invoicing-System)](https://github.com/srs404/Invoicing-System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srs404&repo=TweeBot)](https://github.com/srs404/TweeBot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srs404&repo=WiFi-Retriever-Python)](https://github.com/srs404/WiFi-Retriever-Python)
 
-# STATS 📈
+# STATS
 
 <img src="https://myreadme.vercel.app/api/embed/srs404?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
