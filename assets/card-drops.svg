@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="210" viewBox="0 0 400 210" role="img" aria-labelledby="t d"><title id="t">Drops: Coffee · Order &amp; delivery</title><desc id="d">Customer, store, driver and admin apps, shipped end to end.</desc><style>
+.serif{font-family:'Fraunces','Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+.sans{font-family:Manrope,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,ui-monospace,Menlo,Consolas,'Liberation Mono',monospace}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="gh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#8B7CF6"/></linearGradient>
+<linearGradient id="gs" gradientUnits="userSpaceOnUse" x1="324" y1="32" x2="376" y2="84"><stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#8B7CF6"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#5EEAD4" stop-opacity=".13"/><stop offset="1" stop-color="#8B7CF6" stop-opacity="0"/></radialGradient>
+<clipPath id="card"><rect width="400" height="210" rx="18"/></clipPath>
+<clipPath id="wclip"><rect x="324" y="76" width="52" height="12"/></clipPath>
+</defs>
+<rect width="400" height="210" rx="18" fill="#0A0C16"/>
+<g clip-path="url(#card)"><circle cx="350" cy="58" r="95" fill="url(#glow)"/></g>
+<rect x=".5" y=".5" width="399" height="209" rx="17.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+<rect x="24" y="24" width="28" height="3" rx="1.5" fill="url(#gh)"/>
+<text class="mono" x="24" y="54" font-size="12" font-weight="600" fill="#5EEAD4" textLength="216.0" lengthAdjust="spacing">COFFEE · ORDER &amp; DELIVERY</text>
+<text class="serif" x="23" y="94" font-size="34" fill="#EDF0F7" letter-spacing="-.5">Drops</text>
+<text class="sans" x="24" y="126" font-size="15" fill="#A6ADC2">Customer, store, driver and admin</text><text class="sans" x="24" y="148" font-size="15" fill="#A6ADC2">apps, shipped end to end.</text>
+<rect x="24" y="166" width="87.4" height="24" rx="12" fill="#fff" fill-opacity=".03" stroke="#fff" stroke-opacity=".12"/><text class="mono" x="34" y="182" font-size="11" fill="#A6ADC2" textLength="67.4" lengthAdjust="spacing">APP SUITE</text><rect x="119.4" y="166" width="125.4" height="24" rx="12" fill="#fff" fill-opacity=".03" stroke="#fff" stroke-opacity=".12"/><text class="mono" x="129.4" y="182" font-size="11" fill="#A6ADC2" textLength="105.4" lengthAdjust="spacing">AI-ACCELERATED</text>
+<text class="mono" x="302.8" y="182" font-size="11" font-weight="600" fill="#5EEAD4" textLength="55.2" lengthAdjust="spacing">DETAILS</text>
+<path d="M364 182 L372 174 M366.8 174 H372 V179.2" fill="none" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="none" stroke="url(#gs)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M334 52 H362 V63 C362 72 356 78 348 78 C340 78 334 72 334 63 Z"/><path d="M362 56 H365 C371 56 371 67 365 67 H362"/><path d="M328 83 H368"/><path d="M341 47 c-3 -4 3 -6 0 -10" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 3;0 -4" dur="2.4s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.95;0" dur="2.4s" begin="0s" repeatCount="indefinite"/></path><path d="M348 47 c-3 -4 3 -6 0 -10" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 3;0 -4" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.95;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></path><path d="M355 47 c-3 -4 3 -6 0 -10" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 3;0 -4" dur="2.4s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.95;0" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></path>
+</g>
+</svg>

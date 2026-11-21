@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="44" viewBox="0 0 138 44" role="img" aria-labelledby="t d"><title id="t">Instagram</title><desc id="d">Open Instagram</desc><style>
+.serif{font-family:'Fraunces','Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+.sans{font-family:Manrope,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,ui-monospace,Menlo,Consolas,'Liberation Mono',monospace}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><linearGradient id="gh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#8B7CF6"/></linearGradient></defs><rect x=".5" y=".5" width="137" height="43" rx="21.5" fill="#0A0C16" stroke="#fff" stroke-opacity=".16"/>
+<text class="mono" x="20" y="27" font-size="13" font-weight="600" fill="#EDF0F7" textLength="81.4" lengthAdjust="spacing">INSTAGRAM</text>
+<path d="M110.4 26.5 L118.4 18.5 M113.2 18.5 H118.4 V23.7" fill="none" stroke="#5EEAD4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
