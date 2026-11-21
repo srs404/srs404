@@ -77,7 +77,7 @@ The full story is in my **[résumé →](https://srs404.com/resume.pdf)**
   <a href="https://leylance.com/ventures.html#project-drops"><img src="./assets/card-drops.svg" width="400" alt="drops: late-night coffee delivery for Dhaka (pre-launch)"></a>
 </p>
 
-**The studio builds websites, too.** Hand-coded and launched for founders and professionals, like [amr404.com](https://amr404.com), [ervun.com](https://ervun.com) and this page's big sibling, [srs404.com](https://srs404.com).
+**The studio builds websites, too.** Launched for founders and professionals, like [amr404.com](https://amr404.com), [ervun.com](https://ervun.com) and this page's big sibling, [srs404.com](https://srs404.com).
 
 <details>
 <summary><b>Earlier chapters</b></summary>
